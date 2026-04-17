@@ -52,7 +52,8 @@ Model Persistence: The trained model is saved as fraud_model.pkl using joblib fo
 Core Pages:
 Home: Introduction and overview. <img width="960" height="451" alt="image" src="https://github.com/user-attachments/assets/24ead299-ec88-43d1-89e9-059eb29676c3" />
 
-Prediction: Form for entering transaction details. <img width="960" height="446" alt="image" src="https://github.com/user-attachments/assets/27e7d44a-e803-4d2f-9b2b-5d33dbfe9d0a" />
+Prediction: Form for entering transaction details. <img width="960" height="441" alt="Screenshot 2026-04-17 104136" src="https://github.com/user-attachments/assets/71c095db-d58e-4e48-b066-7250874514a3" />
+
 
 Result: Real-time display of "Fraud" or "Not Fraud" status. <img width="960" height="440" alt="Screenshot 2026-04-16 115545" src="https://github.com/user-attachments/assets/a772e49f-0a2d-4d99-91a8-20c2c457887b" />
 
