@@ -57,6 +57,7 @@ Prediction: Form for entering transaction details. <img width="960" height="441"
 
 Result: Real-time display of "Fraud" or "Not Fraud" status. <img width="960" height="440" alt="Screenshot 2026-04-16 115545" src="https://github.com/user-attachments/assets/a772e49f-0a2d-4d99-91a8-20c2c457887b" />
 
+Demo Video-https://drive.google.com/file/d/1q8DVcOcyQrXz2Ag8fTnMLe76oxiRdRvd/view?usp=sharing
 
 📈 7. Performance & Evaluation
 The system was validated using several metrics to ensure reliability:
